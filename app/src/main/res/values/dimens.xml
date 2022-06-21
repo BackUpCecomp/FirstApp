@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="titulo1">20sp</dimen>
+    <dimen name="logo_UNS">150dp</dimen>
+    <dimen name="punkuri">130dp</dimen>
+    <dimen name="titulo1_practica">50sp</dimen>
+    <dimen name="titulo2_practica">30sp</dimen>
+    <dimen name="titulo3_practica">20sp</dimen>
 </resources>
